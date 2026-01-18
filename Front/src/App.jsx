@@ -1,9 +1,9 @@
 import React from 'react';
-import Login from './components/Login';
+import AppRoutes from './routes/AppRoutes';
 function App() {
   return (
     <>
-    <Login />
+    <AppRoutes />
     </>
   )
 }
